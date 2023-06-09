@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
  echo "$(pwd)"
-=======
-current_directory=$(pwd) 
-echo "$current_directory"
->>>>>>> 8ebf1e818dd08151896e6d5df096d3e2c2f1f673
