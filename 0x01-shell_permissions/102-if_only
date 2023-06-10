@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 sudo chown --from=guillaume betty hello
+=======
+chown --from=guillaume betty hello
+>>>>>>> ddac3c7fe37b63ea4ecf5c2ec421546389df3df3
