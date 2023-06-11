@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name '[[:upper:]]' -print0 | xargs -0 -I {} mv {} /tmp/u/
+find . -type f -name '[[:upper:]]' -exec sh -c 'for file do mv "$file" /tmp; done' sh {} +
