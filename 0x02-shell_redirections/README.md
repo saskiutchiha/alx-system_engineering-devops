@@ -1,6 +1,11 @@
-0x00-shell_basics/
-0x01-shell_permissions/
+0-hello_world
+1-confused_smiley
+2-hellofile
+3-twofiles
+4-lastlines
+5-firstlines
+6-third_line
+8-cwd_state
+hhh
 README.md
-0x00-shell_basics/
-0x01-shell_permissions/
 README.md
