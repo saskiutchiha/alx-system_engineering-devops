@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 awk "NR == 3" README.md
+=======
+head -n 3 iacta | tail -n 1
+>>>>>>> 9a95df111a5b894d767aa3b69fa97a65b81a3d0b
