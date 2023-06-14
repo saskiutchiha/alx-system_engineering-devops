@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-printf "%.2f" $NUM 
-=======
-printf "%d\n" $BINARY 
->>>>>>> 4186d2da453837192b47510f897a44f4891a3e75
+printf "%.2f" $NUM
