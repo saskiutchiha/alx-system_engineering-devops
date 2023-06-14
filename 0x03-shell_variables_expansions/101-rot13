@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'abcdefghijklmnopqrstuvwxyz' 'zyxwvutsrqponmlkjihgfedcba' | tr 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' 'ZYXWVUTSRQPONMLKJIHGFEDCBA'
+tr 'ab cdefghijklmnopqrstuvwx yz' 'zy xwvutsrqponmlkjihgfedc ba' | tr 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' 'ZYXWVUTSRQPONMLKJIHGFEDCBA'
