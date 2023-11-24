@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#print all prosseces runing in my shell
+ps aux
