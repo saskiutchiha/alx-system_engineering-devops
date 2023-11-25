@@ -6,7 +6,7 @@
 #   Deletes the file /var/run/myscript.pid and terminates upon
 #+  receiving a SIGQUIT or SIGTERM.
 touch /var/run/myscript.pid
-echo '$$'| cat > /var/run/myscript.pid
+echo $$| cat > /var/run/myscript.pid
 digterm(){
  echo "I hate the kill command"
  rm /var/run/myscript.pid
