@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# print prosses with name bach 
+pgrep bash -l
