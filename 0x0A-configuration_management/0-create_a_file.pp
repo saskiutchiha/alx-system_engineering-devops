@@ -1,3 +1,6 @@
+#this file creats a file in /tmp/school'
+#with a permission 0744
+
 file {
 '/tmp/school':
 ensure => file,
